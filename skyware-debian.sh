@@ -153,8 +153,8 @@ NAME="SkywareOS"
 PRETTY_NAME="SkywareOS"
 ID=skywareos
 ID_LIKE=debian
-VERSION="Release"
-VERSION_ID=Release
+VERSION="Debian"
+VERSION_ID=Debian
 HOME_URL="https://github.com/SkywareSW"
 LOGO=skywareos
 EOF
